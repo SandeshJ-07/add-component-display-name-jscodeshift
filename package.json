@@ -1,0 +1,12 @@
+{
+  "name": "jscodeshift-add-component-displayname",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jscodeshift": "^0.11.11",
+    "jscodeshift": "^0.15.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
